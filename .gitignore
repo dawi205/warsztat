@@ -1,0 +1,4 @@
+*.py
+*.pyc
+!main.py
+!test.py
